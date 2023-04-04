@@ -5,6 +5,8 @@ console.log('a', a);
 console.log('a.sort()', a.sort());
 console.log('a.sort() === a', a.sort() === a);
 console.log('a.sort() == a', a.sort() == a);
+console.log('a.sort() == a.reverse()', a.sort() == a.reverse());
+console.log('a.sort() === a.reverse()', a.sort() === a.reverse());
 
 console.log('b', b);
 console.log('b.sort()', b.sort());
